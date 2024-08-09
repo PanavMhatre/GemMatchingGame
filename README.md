@@ -5,11 +5,6 @@ This is a two player game with gems. you get extra points for having the same co
 
 Make sure to run the whole folder!
 
-Has code from:
-
-https://github.com/PanavMhatre/LinkedList
-
-https://github.com/PanavMhatre/MazeSolver
 
 Contributions are welcome! To contribute:
 
